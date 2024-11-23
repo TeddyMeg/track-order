@@ -27,7 +27,7 @@ This backend repository contains the server code for the Logistics Management Sy
 2. Navigate to the project directory:
 
    ```
-   cd view
+   cd frontend
 
    ```
 
@@ -39,7 +39,7 @@ This backend repository contains the server code for the Logistics Management Sy
 
 4. Install frontend dependencies:
    ```
-   cd view
+   cd frontend
    npm install
    ```
 
