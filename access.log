@@ -1,0 +1,95 @@
+GET /api/items 304  - 276.475 ms
+
+POST /api/users/register 201 224 - 634.056 ms
+GET /api/items 200 2 - 292.914 ms
+GET /api/delivery-vehicles 200 2 - 512.033 ms
+GET /api/customers 200 2 - 528.543 ms
+GET /api/orders 200 2 - 629.815 ms
+GET /api/delivery-vehicles 304  - 256.570 ms
+GET /api/customers 304  - 265.731 ms
+GET /api/items 304  - 265.708 ms
+POST /api/items 201 145 - 437.527 ms
+GET /api/delivery-vehicles 304  - 184.968 ms
+GET /api/customers 304  - 174.320 ms
+GET /api/orders 304  - 303.112 ms
+GET /api/customers 304  - 292.211 ms
+POST /api/customers 201 155 - 281.291 ms
+GET /api/delivery-vehicles 304  - 609.551 ms
+POST /api/delivery-vehicles 201 215 - 504.658 ms
+GET /api/customers 200 157 - 488.956 ms
+GET /api/delivery-vehicles 200 217 - 485.943 ms
+GET /api/orders 304  - 575.452 ms
+POST /api/orders 201 295 - 1852.909 ms
+GET /api/items 200 147 - 359.888 ms
+GET /api/customers 304  - 447.912 ms
+GET /api/delivery-vehicles 200 217 - 433.765 ms
+GET /api/orders 200 297 - 3699.159 ms
+GET /api/delivery-vehicles 304  - 691.621 ms
+GET /api/customers 304  - 296.702 ms
+GET /api/items 304  - 293.396 ms
+GET /api/customers 304  - 202.862 ms
+GET /api/delivery-vehicles 304  - 196.104 ms
+GET /api/orders 304  - 284.232 ms
+GET /api/delivery-vehicles 304  - 1298.596 ms
+GET /api/customers 304  - 480.625 ms
+GET /api/items 304  - 280.640 ms
+POST /api/items 201 146 - 293.359 ms
+GET /api/customers 304  - 207.480 ms
+GET /api/delivery-vehicles 304  - 204.220 ms
+GET /api/orders 304  - 243.349 ms
+GET /api/delivery-vehicles 304  - 278.138 ms
+GET /api/customers 304  - 292.481 ms
+GET /api/customers 304  - 210.544 ms
+GET /api/delivery-vehicles 304  - 207.547 ms
+GET /api/orders 304  - 259.747 ms
+PATCH /api/orders/6741a8b0413f8cb740ef8b8e/delivered 200 294 - 1473.426 ms
+GET /api/items 200 294 - 258.952 ms
+GET /api/customers 304  - 747.296 ms
+GET /api/delivery-vehicles 200 217 - 753.392 ms
+GET /api/orders 200 296 - 832.407 ms
+GET /api/delivery-vehicles 304  - 292.587 ms
+GET /api/customers 304  - 346.199 ms
+POST /api/users/login 200 224 - 249.563 ms
+GET /api/delivery-vehicles 304  - 928.283 ms
+GET /api/customers 304  - 947.350 ms
+GET /api/orders 304  - 975.978 ms
+DELETE /api/orders/6741a8b0413f8cb740ef8b8e 200 27 - 249.336 ms
+GET /api/items 304  - 294.925 ms
+GET /api/customers 304  - 235.680 ms
+GET /api/delivery-vehicles 304  - 279.753 ms
+GET /api/customers 304  - 175.480 ms
+GET /api/delivery-vehicles 304  - 209.984 ms
+GET /api/orders 200 2 - 244.343 ms
+POST /api/orders 201 295 - 1446.891 ms
+POST /api/users/login 200 224 - 197.868 ms
+GET /api/items 304  - 224.281 ms
+POST /api/users/login 200 224 - 233.954 ms
+GET /api/items 304  - 516.552 ms
+POST /api/items 201 145 - 254.206 ms
+POST /api/users/login 200 224 - 3406.319 ms
+GET /api/items 200 440 - 385.329 ms
+POST /api/users/login 200 224 - 370.613 ms
+GET /api/items 304  - 416.631 ms
+GET /api/orders 200 297 - 358.306 ms
+GET /api/delivery-vehicles 200 217 - 2159.611 ms
+GET /api/customers 304  - 4337.597 ms
+GET /api/customers 304  - 362.073 ms
+POST /api/users/login 401 28 - 353.376 ms
+POST /api/users/login 401 28 - 328.827 ms
+POST /api/users/login 401 28 - 331.189 ms
+POST /api/users/login 200 224 - 350.762 ms
+POST /api/users/login 401 28 - 328.827 ms
+POST /api/users/login 401 28 - 330.868 ms
+POST /api/users/login 401 28 - 331.164 ms
+POST /api/users/register?name=Abel&phoneNumber=1323445345&password=123 500 53 - 351.444 ms
+POST /api/users/register 500 53 - 349.433 ms
+POST /api/users/register 500 53 - 354.175 ms
+POST /api/users/login 200 224 - 355.230 ms
+GET /api/items 304  - 360.783 ms
+GET /api/customers 304  - 354.316 ms
+GET /api/delivery-vehicles 304  - 350.645 ms
+GET /api/orders 200 297 - 374.615 ms
+GET /api/delivery-vehicles 304  - 355.449 ms
+GET /api/customers 304  - 354.028 ms
+GET /api/delivery-vehicles 304  - 354.996 ms
+PUT /api/orders/:id 401 54 - 0.505 ms
